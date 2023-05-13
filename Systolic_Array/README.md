@@ -9,9 +9,9 @@ input dimensions -
   <img alt="" src="https://github.com/saicharan1213/Physical-Design/blob/main/Systolic_Array/IMG-0230.jpg?raw=true" width="400" height="400">
 </picture>
 
-## Layout with visisble Pins and Standard cells
+## Simulation Result
 <picture>
   <img alt="image with pins visibility" src="https://github.com/saicharan1213/Physical-Design/blob/main/counter%20design/layout_virtuoso.png" width="700" height="500">
 </picture><br/>
-1. Performed DRC and LVS checks images please go through the above images in the folder<br/>
-2. Functionality has been verified by generating waveforms using synthesized netlist from both APR netlist as well as Design compiler synthesiszed netlist
+1. The Matrix multiplication output from systolic array is available at (2M-1)+N time where M and N are dimensions of the inputs i.e; NxM and M xN<br/>
+2. Since the 2 input matrices are of size 3x3 the output is available at 8th cycle.
