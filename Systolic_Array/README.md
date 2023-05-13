@@ -6,7 +6,7 @@ input dimensions -
 
 ## Systolic array Arrangement
 <picture>
-  <img alt="" src="Systolic_Array/IMG-0230.jpg" width="400" height="400">
+  <img alt="" src="https://github.com/saicharan1213/Physical-Design/blob/main/Systolic_Array/IMG-0230.jpg?raw=true" width="400" height="400">
 </picture>
 
 ## Layout with visisble Pins and Standard cells
